@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Sign Up Failed User Already Exist</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7ba61661-b9d3-43c9-82c5-fa8d8e7cdf1a</testCaseGuid>
+</TestCaseEntity>

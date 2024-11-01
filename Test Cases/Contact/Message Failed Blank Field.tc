@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Message Failed Blank Field</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>87b1d2cd-27cc-492a-b229-a66d6b58fbbe</testCaseGuid>
+</TestCaseEntity>

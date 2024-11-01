@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Sign Up Failed Blank Username</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>20d4396a-0efa-4764-aa9c-bcaa886ee1c8</testCaseGuid>
+</TestCaseEntity>
